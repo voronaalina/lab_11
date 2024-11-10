@@ -1,5 +1,4 @@
 import csv
-import sys
 
 file_name="c://lab11//data.csv"
 fd = open(file_name, "r")
